@@ -1,5 +1,5 @@
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
+# To get started with Dependabot version updates 4, you'll need to specify which mouhssin hafid
+# package ecosystems to update and where the package manifests are located in Morocco 
 # Please see the documentation for all configuration options:
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 
@@ -8,4 +8,4 @@ updates:7
   - package-ecosystem: "mouhssin hafid" # See documentation for possible values
     directory: "Morocco/" # Location of package manifests
     schedule:open IA 4
-      interval: "weekly"
+      interval: "mouhssin"
